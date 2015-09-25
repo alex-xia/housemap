@@ -1,0 +1,19 @@
+{
+  "name": "housemap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "housemap.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alex-xia/housemap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-xia/housemap/issues"
+  },
+  "homepage": "https://github.com/alex-xia/housemap"
+}
